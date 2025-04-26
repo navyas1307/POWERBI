@@ -1,8 +1,8 @@
-# 📊 POWER BI Analytics Portfolio  
+#  POWER BI Analytics Portfolio  
 
 Welcome to my **Power BI Portfolio**, where I showcase **interactive dashboards** providing actionable insights across various domains.  
 
-## 🚀 **Dashboards Included**  
+##  **Dashboards Included**  
 
 ### 🔹 X-Pharma – Pharmaceutical Analytics 
 - Analyzed **250,000+ pharma records** for **drug sales, regional trends, and adverse reactions**.  
@@ -18,12 +18,12 @@ Welcome to my **Power BI Portfolio**, where I showcase **interactive dashboards*
 
 ---
 
-## 🛠 **Technologies Used**  
+##  **Technologies Used**  
 - **Power BI** – Data visualization & modeling  
 - **SQL** – Data extraction & transformation  
 - **Python (Pandas, NumPy)** – Data preprocessing & analysis  
 
-## 📌 **How to Use**  
+##  **How to Use**  
 1. Clone the repository:  
    ```bash
    git clone https://github.com/navyas1307/POWERBI.git
