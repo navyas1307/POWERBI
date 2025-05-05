@@ -10,7 +10,7 @@ Welcome to my **Power BI Portfolio**, where I showcase **interactive dashboards*
 
 ### 🔹 Livability Analysis Dashboard  
 - Ranked **188 countries** based on key livability factors like **economy, healthcare, and environment**.  
-- Integrated **sentiment analysis** from Reddit discussions to capture **public perception**.  
+
 
 ### 🔹 Cricket Performance Dashboard 
 - Analyzed **player statistics, team performance, and match outcomes**.  
